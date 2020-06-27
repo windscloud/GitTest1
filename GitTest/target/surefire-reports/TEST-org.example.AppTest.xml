@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.03" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="E:\后端\网盘Java\16-Git\Git学习文件夹\GitTest\target\test-classes;E:\后端\网盘Java\16-Git\Git学习文件夹\GitTest\target\classes;E:\Java11\apache-maven-repository\junit\junit\4.11\junit-4.11.jar;E:\Java11\apache-maven-repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="E:\Java11\bin"/>
+    <property name="sun.java.command" value="C:\Users\我\AppData\Local\Temp\surefire8114687134511992387\surefirebooter1264979836687014388.jar C:\Users\我\AppData\Local\Temp\surefire8114687134511992387 2020-06-27T15-30-22_575-jvmRun1 surefire15659708025464670958tmp surefire_012318743603050163949tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\后端\网盘Java\16-Git\Git学习文件夹\GitTest\target\test-classes;E:\后端\网盘Java\16-Git\Git学习文件夹\GitTest\target\classes;E:\Java11\apache-maven-repository\junit\junit\4.11\junit-4.11.jar;E:\Java11\apache-maven-repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\我"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-10-15"/>
+    <property name="java.home" value="E:\Java11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\后端\网盘Java\16-Git\Git学习文件夹\GitTest"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\我\AppData\Local\Temp\surefire8114687134511992387\surefirebooter1264979836687014388.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.5+10-LTS"/>
+    <property name="user.name" value="我"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="E:\Java11\apache-maven-repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\我\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.5"/>
+    <property name="user.dir" value="E:\后端\网盘Java\16-Git\Git学习文件夹\GitTest"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="idea.version2019.3.1" value="true"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="E:\Java11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;E:\Java11\bin;C:\Program Files\Intel\iCLS Client\;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine C;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System64\Wbem;C:\Windows\SysWOW64;E:\SProjecct\Git\cmd;E:\SProjecct\bin;E:\Mysql\bin;E:\Java11\apache-maven-3.6.0\bin;E:\Node\;E:\Node\node_global\node_modules;E:\Node\node_global;E:\MinGW\bin;E:\Android\.gradle\wrapper\dists\gradle-4.1-all\gradle-4.1\bin;E:\Android\AVD\avd;%&apos;ANDROID_HOME%\tools;%&apos;ANDROID_HOME%\platform-tools;E:\Android\Sdk\tools;%&apos;ANDROID_SDK_ROOT%\platform-tools;C:\Users\我\AppData\Local\Microsoft\WindowsApps;E:\Fiddler;C:\Users\我\AppData\Local\Microsoft\WindowsApps;C:\Users\我\AppData\Local\GitHubDesktop\bin;E:\Microsoft VS Code\bin;E:\Node\node_modules\npm;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.5+10-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="org.example.AppTest" time="0.002"/>
+</testsuite>
